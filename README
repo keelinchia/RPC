@@ -1,0 +1,10 @@
+COMS 487 Programming HW2
+-------------------------
+
+1. Compile with make
+
+2. Server hostname is set to "pyrite-n3" in Test.java
+
+3. Run server with "./Server"
+
+4. Run client with "java Test" 
